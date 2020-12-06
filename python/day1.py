@@ -14,8 +14,8 @@ def sort (lst):
     
     
         i = j = k = 0
-        #print ("arr1[i]: ", arr1[i])
-        #print ("arr2[j]: ", arr2[j])
+        # print ("arr1[i]: ", arr1[i])
+        # print ("arr2[j]: ", arr2[j])
         while (i < len(arr1) and j < len(arr2)):
             if arr1[i] < arr2[j]:
                 lst[k] = arr1[i]
@@ -39,9 +39,9 @@ def sort (lst):
     
 # binary searching
 def search(lst, numToFind):
-    #print ("****Search function****")
+    print ("****Search function****")
     mid = len(lst) // 2
-    #print ("lst: ", lst, "numToFind: ", numToFind, "lst[mid]: ", lst[mid])
+    print ("lst: ", lst, "numToFind: ", numToFind, "lst[mid]: ", lst[mid])
     
     if len(lst) > 1:
         if numToFind < lst[mid]:
@@ -50,24 +50,28 @@ def search(lst, numToFind):
             result = search(lst[mid:], numToFind)
     else:
         if numToFind == lst[mid]:
-            #print ("Returning to caller")
+            print ("Returning to caller")
             return lst[mid]
         else:
             return None
     return result
     
 def find(lst, num):
-    #print ("****find funtion****")
+    print ("****find funtion****")
     numToFind = num - lst[-1]
-    result = search(lst, numToFind)
-    #print ("lst: ", lst, "numToFind: ", numToFind, "result: ", result)
-    if result == None: 
-        if len(lst) > 1:
-            lst = lst[:-1]
-            find(lst, num)
-        return
+    result = None
+    if len(lst) < 2:
+        if lst[0] == numToFind:
+            result = lst[0]
     else:
-        return [result,lst[-1]]
+        result = search(lst, numToFind)
+        print ("lst: ", lst, "numToFind: ", numToFind, "result: ", result)
+        if result == None: 
+            lst = lst[:-1]
+            result = find(lst, num)
+        else:
+            return [result,lst[-1]]
+    return result
     
 lst = list()
 # print ("Input Numbers: ")
