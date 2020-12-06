@@ -86,9 +86,32 @@ def find(lst, num):
         else:
             r -= 1
     return None
+    
+def find3Numbers(lst, arr_size, sum):
+    for i in range(0, arr_size-2):
+        l = i + 1 
+          
+        # index of the last element 
+        r = arr_size-1 
+        while (l < r): 
+          
+            if( lst[i] + lst[l] + lst[r] == sum): 
+                result = [lst[i], lst[l], lst[r]]
+                return result
+              
+            elif (lst[i] + lst[l] + lst[r] < sum): 
+                l += 1
+            else: # A[i] + A[l] + A[r] > sum 
+                r -= 1
+  
+    # If we reach here, then 
+    # no triplet was found 
+    return None
+        
+        
 lst = list()
 
-choice = input("Do you want to provide custom input(y or Y: ")
+choice = input("Do you want to provide custom input(y or Y): ")
 if choice == 'y' or choice == 'Y':
     while (True) :
         temp = input('Input Numbers: ')
@@ -104,9 +127,9 @@ else:
 
 sort(lst)
 print(lst)
-result = find(lst, 2020)
+result = find3Numbers(lst, len(lst), 2020)
 print (result)
 if (result is not None):
-    print (result[0] * result[1])
+    print (result[0] * result[1] * result[2])
 else:
     print ("No solution, give me better inputs (`_`)")
