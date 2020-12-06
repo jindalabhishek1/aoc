@@ -38,6 +38,7 @@ def sort (lst):
     #print ("lst: ", lst, " end\n")    
     
 # binary searching
+# Not using it in optimized code
 def search(lst, numToFind):
     print ("****Search function****")
     mid = len(lst) // 2
@@ -57,22 +58,34 @@ def search(lst, numToFind):
     return result
     
 def find(lst, num):
-    print ("****find funtion****")
-    numToFind = num - lst[-1]
-    result = None
-    if len(lst) < 2:
-        if lst[0] == numToFind:
-            result = lst[0]
-    else:
-        result = search(lst, numToFind)
-        print ("lst: ", lst, "numToFind: ", numToFind, "result: ", result)
-        if result == None: 
-            lst = lst[:-1]
-            result = find(lst, num)
+    # print ("****find funtion****")
+    # numToFind = num - lst[-1]
+    # result = None
+    # if len(lst) < 2:
+    #     if lst[0] == numToFind:
+    #         result = lst[0]
+    # else:
+    #     result = search(lst, numToFind)
+    #     print ("lst: ", lst, "numToFind: ", numToFind, "result: ", result)
+    #     if result == None: 
+    #         lst = lst[:-1]
+    #         result = find(lst, num)
+    #     else:
+    #         return [result,lst[-1]]
+    # return result
+    arr_size = len(lst)
+    l = 0
+    r = arr_size-1
+     
+    # traverse the array for the two elements
+    while l<r:
+        if (lst[l] + lst[r] == num):
+            return [lst[l], lst[r]]
+        elif (lst[l] + lst[r] < num):
+            l += 1
         else:
-            return [result,lst[-1]]
-    return result
-    
+            r -= 1
+    return None
 lst = list()
 # print ("Input Numbers: ")
 # while (True) :
@@ -292,4 +305,7 @@ sort(lst)
 print(lst)
 result = find(lst, 2020)
 print (result)
-print (result[0] * result[1])
+if (result is not None):
+    print (result[0] * result[1])
+else:
+    print ("No solution, give me better inputs (`_`)")
