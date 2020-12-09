@@ -1,3 +1,5 @@
+import re
+
 def inp():    
     fname = input("Enter file name: ")
     if len(fname) < 1: fname = '../sample_input.txt'
@@ -25,13 +27,34 @@ def inp():
     # print(lst)
     return lst
 
+def regular_string(field):
+    if field == "byr" : reg = '^(19[2-9]\d|200[0-2])$'
+    elif field == "iyr" : reg = '^(20[1]\d|2020)$'
+    elif field == "eyr" : reg = '^(20[2]\d|2030)$'
+    elif field == "hgt" : reg = '(1[5-8]\d|19[0-3](?=cm) | 59|6\d|7[0-6](?=in))'
+    elif field == "hcl" : reg = '^#([0-9a-f]{6})'
+    elif field == "ecl" : reg = '\\b(amb|blu|brn|gry|grn|hzl|oth)\\b'
+    elif field == "pid" : reg = '(?<!.)\d{9}(?!.)'
+    elif field == "cid" : reg = '(.*)'
+    else : reg = None
+    return reg
+
 def check(temp):
     listOfKeys = list(temp.keys())
-    lenght = len(listOfKeys)
-    if lenght == 8: return True
-    if lenght == 7:
-        if (listOfKeys.count('cid')) == 0 : return True
-    return False
+    listOfValues = list(temp.values())
+    i = 0
+    length = len(listOfKeys)
+    if length < 7 : return False
+    elif length < 8 and listOfKeys.count('cid') != 0 : return False
+    else:
+        while (i < length):
+            reg = regular_string(listOfKeys[i])
+            # print (reg)
+            res = re.findall(reg, listOfValues[i])
+            # print("key: ", listOfKeys[i], "value: ", listOfValues[i], "res: ", res)
+            i += 1
+            if len(res) == 0: return False
+    return True
 
 def count_valid_passports(lst):
     count = 0
