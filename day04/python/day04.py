@@ -2,7 +2,7 @@ import re
 
 def inp():    
     fname = input("Enter file name: ")
-    if len(fname) < 1: fname = '../sample_input.txt'
+    if len(fname) < 1: fname = '../input.txt'
 
     lst = list()
     temp = None
@@ -31,8 +31,8 @@ def regular_string(field):
     if field == "byr" : reg = '^(19[2-9]\d|200[0-2])$'
     elif field == "iyr" : reg = '^(20[1]\d|2020)$'
     elif field == "eyr" : reg = '^(20[2]\d|2030)$'
-    elif field == "hgt" : reg = '(1[5-8]\d|19[0-3](?=cm) | 59|6\d|7[0-6](?=in))'
-    elif field == "hcl" : reg = '^#([0-9a-f]{6})'
+    elif field == "hgt" : reg = '(1[5-8]\d|19[0-3])(?=cm)|(59|6\d|7[0-6](?=in))'
+    elif field == "hcl" : reg = '^#([0-9a-f]{6}$)'
     elif field == "ecl" : reg = '\\b(amb|blu|brn|gry|grn|hzl|oth)\\b'
     elif field == "pid" : reg = '(?<!.)\d{9}(?!.)'
     elif field == "cid" : reg = '(.*)'
@@ -49,25 +49,21 @@ def check(temp):
     else:
         while (i < length):
             reg = regular_string(listOfKeys[i])
-            # print (reg)
             res = re.findall(reg, listOfValues[i])
-            # print("key: ", listOfKeys[i], "value: ", listOfValues[i], "res: ", res)
             i += 1
             if len(res) == 0: return False
     return True
 
 def count_valid_passports(lst):
     count = 0
+    num = 0
     for item in lst:
-        # print (type(item))
         res = check(item)
         if res is True : count += 1
-        # print("item: ", item, "res: ", res, "count: ", count)
     return count
 
 # start 
 
 lst = inp()
-# print(lst)
 count = count_valid_passports(lst)
 print ("Total valid passports: ", count)

@@ -1,0 +1,2497 @@
+Enter file name: 
+length:  6
+False
+1 count: 0
+
+length:  7
+key:  eyr value:  1988 res:  []
+False
+2 count: 0
+
+length:  7
+key:  hcl value:  #733820 res:  ['733820']
+key:  hgt value:  166cm res:  [('166', '')]
+key:  eyr value:  2025 res:  ['2025']
+key:  pid value:  79215921 res:  []
+False
+3 count: 0
+
+length:  7
+False
+4 count: 0
+
+length:  8
+key:  iyr value:  2013 res:  ['2013']
+key:  ecl value:  brn res:  ['brn']
+key:  hcl value:  #623a2f res:  ['623a2f']
+key:  cid value:  246 res:  ['246', '']
+key:  byr value:  1948 res:  ['1948']
+key:  pid value:  122719649 res:  ['122719649']
+key:  hgt value:  160cm res:  [('160', '')]
+key:  eyr value:  2026 res:  ['2026']
+True
+5 count: 1
+
+length:  7
+key:  eyr value:  2028 res:  ['2028']
+key:  pid value:  229371724 res:  ['229371724']
+key:  hgt value:  154cm res:  [('154', '')]
+key:  hcl value:  #ceb3a1 res:  ['ceb3a1']
+key:  byr value:  2000 res:  ['2000']
+key:  ecl value:  hzl res:  ['hzl']
+key:  iyr value:  2017 res:  ['2017']
+True
+6 count: 2
+
+length:  7
+key:  eyr value:  2029 res:  ['2029']
+key:  ecl value:  amb res:  ['amb']
+key:  byr value:  1980 res:  ['1980']
+key:  hgt value:  177cm res:  [('177', '')]
+key:  pid value:  914628384 res:  ['914628384']
+key:  hcl value:  #623a2f res:  ['623a2f']
+key:  iyr value:  2013 res:  ['2013']
+True
+7 count: 3
+
+length:  7
+key:  iyr value:  2019 res:  ['2019']
+key:  eyr value:  2026 res:  ['2026']
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  pid value:  475316185 res:  ['475316185']
+key:  byr value:  1945 res:  ['1945']
+key:  hgt value:  76in res:  [('', '76')]
+key:  ecl value:  amb res:  ['amb']
+True
+8 count: 4
+
+length:  6
+False
+9 count: 4
+
+length:  6
+False
+10 count: 4
+
+length:  8
+key:  iyr value:  2012 res:  ['2012']
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  hgt value:  160cm res:  [('160', '')]
+key:  pid value:  223041037 res:  ['223041037']
+key:  eyr value:  2029 res:  ['2029']
+key:  byr value:  1920 res:  ['1920']
+key:  ecl value:  oth res:  ['oth']
+key:  cid value:  212 res:  ['212', '']
+True
+11 count: 5
+
+length:  6
+False
+12 count: 5
+
+length:  7
+key:  pid value:  465404256 res:  ['465404256']
+key:  hcl value:  #7a54af res:  ['7a54af']
+key:  ecl value:  blu res:  ['blu']
+key:  hgt value:  180cm res:  [('180', '')]
+key:  iyr value:  2018 res:  ['2018']
+key:  eyr value:  2024 res:  ['2024']
+key:  byr value:  1933 res:  ['1933']
+True
+13 count: 6
+
+length:  7
+key:  hcl value:  #18171d res:  ['18171d']
+key:  iyr value:  2018 res:  ['2018']
+key:  hgt value:  185cm res:  [('185', '')]
+key:  byr value:  1929 res:  ['1929']
+key:  eyr value:  2024 res:  ['2024']
+key:  ecl value:  oth res:  ['oth']
+key:  pid value:  #b0990a res:  []
+False
+14 count: 6
+
+length:  7
+key:  byr value:  2017 res:  []
+False
+15 count: 6
+
+length:  7
+key:  hgt value:  176cm res:  [('176', '')]
+key:  iyr value:  2019 res:  ['2019']
+key:  eyr value:  2024 res:  ['2024']
+key:  ecl value:  brn res:  ['brn']
+key:  byr value:  1943 res:  ['1943']
+key:  pid value:  532967054 res:  ['532967054']
+key:  hcl value:  007b47 res:  []
+False
+16 count: 6
+
+length:  7
+key:  pid value:  171225044 res:  ['171225044']
+key:  hcl value:  #888785 res:  ['888785']
+key:  byr value:  1992 res:  ['1992']
+key:  ecl value:  amb res:  ['amb']
+key:  iyr value:  2012 res:  ['2012']
+key:  eyr value:  2030 res:  ['2030']
+key:  hgt value:  180cm res:  [('180', '')]
+True
+17 count: 7
+
+length:  6
+False
+18 count: 7
+
+length:  8
+key:  pid value:  166619054 res:  ['166619054']
+key:  cid value:  125 res:  ['125', '']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  hgt value:  164cm res:  [('164', '')]
+key:  byr value:  1946 res:  ['1946']
+key:  ecl value:  brn res:  ['brn']
+key:  iyr value:  2014 res:  ['2014']
+key:  eyr value:  2023 res:  ['2023']
+True
+19 count: 8
+
+length:  6
+False
+20 count: 8
+
+length:  8
+key:  cid value:  253 res:  ['253', '']
+key:  pid value:  9096156879 res:  []
+False
+21 count: 8
+
+length:  8
+key:  ecl value:  oth res:  ['oth']
+key:  pid value:  180428876 res:  ['180428876']
+key:  iyr value:  2019 res:  ['2019']
+key:  byr value:  2001 res:  ['2001']
+key:  eyr value:  2024 res:  ['2024']
+key:  hgt value:  172cm res:  [('172', '')]
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  cid value:  81 res:  ['81', '']
+True
+22 count: 9
+
+length:  7
+key:  hgt value:  167cm res:  [('167', '')]
+key:  byr value:  2007 res:  []
+False
+23 count: 9
+
+length:  8
+key:  pid value:  377737133 res:  ['377737133']
+key:  hgt value:  160cm res:  [('160', '')]
+key:  byr value:  1958 res:  ['1958']
+key:  hcl value:  #866857 res:  ['866857']
+key:  ecl value:  oth res:  ['oth']
+key:  iyr value:  2015 res:  ['2015']
+key:  eyr value:  2022 res:  ['2022']
+key:  cid value:  350 res:  ['350', '']
+True
+24 count: 10
+
+length:  7
+key:  hgt value:  188cm res:  [('188', '')]
+key:  eyr value:  2025 res:  ['2025']
+key:  ecl value:  brn res:  ['brn']
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  iyr value:  2015 res:  ['2015']
+key:  pid value:  321192707 res:  ['321192707']
+key:  byr value:  1996 res:  ['1996']
+True
+25 count: 11
+
+length:  8
+key:  byr value:  1956 res:  ['1956']
+key:  iyr value:  2018 res:  ['2018']
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  eyr value:  2024 res:  ['2024']
+key:  ecl value:  blu res:  ['blu']
+key:  cid value:  343 res:  ['343', '']
+key:  hgt value:  152cm res:  [('152', '')]
+key:  pid value:  192659885 res:  ['192659885']
+True
+26 count: 12
+
+length:  7
+key:  hgt value:  163cm res:  [('163', '')]
+key:  iyr value:  2012 res:  ['2012']
+key:  byr value:  1952 res:  ['1952']
+key:  eyr value:  2022 res:  ['2022']
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  ecl value:  grn res:  ['grn']
+key:  pid value:  337866006 res:  ['337866006']
+True
+27 count: 13
+
+length:  7
+False
+28 count: 13
+
+length:  8
+key:  ecl value:  grn res:  ['grn']
+key:  byr value:  1945 res:  ['1945']
+key:  eyr value:  2028 res:  ['2028']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  iyr value:  2012 res:  ['2012']
+key:  cid value:  108 res:  ['108', '']
+key:  pid value:  388941584 res:  ['388941584']
+key:  hgt value:  171cm res:  [('171', '')]
+True
+29 count: 14
+
+length:  8
+key:  pid value:  962215061 res:  ['962215061']
+key:  ecl value:  brn res:  ['brn']
+key:  iyr value:  2019 res:  ['2019']
+key:  eyr value:  2025 res:  ['2025']
+key:  cid value:  163 res:  ['163', '']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  byr value:  1958 res:  ['1958']
+key:  hgt value:  187in res:  []
+False
+30 count: 14
+
+length:  8
+key:  ecl value:  amb res:  ['amb']
+key:  byr value:  1989 res:  ['1989']
+key:  pid value:  118257086 res:  ['118257086']
+key:  iyr value:  2019 res:  ['2019']
+key:  cid value:  320 res:  ['320', '']
+key:  hgt value:  158cm res:  [('158', '')]
+key:  eyr value:  2027 res:  ['2027']
+key:  hcl value:  #733820 res:  ['733820']
+True
+31 count: 15
+
+length:  7
+key:  pid value:  813286578 res:  ['813286578']
+key:  iyr value:  2019 res:  ['2019']
+key:  eyr value:  2031 res:  []
+False
+32 count: 15
+
+length:  7
+key:  byr value:  1976 res:  ['1976']
+key:  ecl value:  blu res:  ['blu']
+key:  eyr value:  2024 res:  ['2024']
+key:  hcl value:  #fffffd res:  ['fffffd']
+key:  hgt value:  153cm res:  [('153', '')]
+key:  pid value:  552154655 res:  ['552154655']
+key:  iyr value:  2019 res:  ['2019']
+True
+33 count: 16
+
+length:  6
+False
+34 count: 16
+
+length:  7
+key:  hgt value:  178cm res:  [('178', '')]
+key:  byr value:  2007 res:  []
+False
+35 count: 16
+
+length:  8
+key:  eyr value:  2021 res:  ['2021']
+key:  cid value:  105 res:  ['105', '']
+key:  iyr value:  2013 res:  ['2013']
+key:  byr value:  1995 res:  ['1995']
+key:  ecl value:  grn res:  ['grn']
+key:  hgt value:  181cm res:  [('181', '')]
+key:  pid value:  733189859 res:  ['733189859']
+key:  hcl value:  #b6652a res:  ['b6652a']
+True
+36 count: 17
+
+length:  8
+key:  hcl value:  #6b5442 res:  ['6b5442']
+key:  eyr value:  2028 res:  ['2028']
+key:  iyr value:  2013 res:  ['2013']
+key:  byr value:  1958 res:  ['1958']
+key:  hgt value:  169cm res:  [('169', '')]
+key:  ecl value:  gry res:  ['gry']
+key:  pid value:  651263830 res:  ['651263830']
+key:  cid value:  51 res:  ['51', '']
+True
+37 count: 18
+
+length:  7
+False
+38 count: 18
+
+length:  7
+key:  byr value:  1936 res:  ['1936']
+key:  eyr value:  2025 res:  ['2025']
+key:  ecl value:  hzl res:  ['hzl']
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  iyr value:  2019 res:  ['2019']
+key:  pid value:  670202082 res:  ['670202082']
+key:  hgt value:  186cm res:  [('186', '')]
+True
+39 count: 19
+
+length:  6
+False
+40 count: 19
+
+length:  7
+key:  iyr value:  2015 res:  ['2015']
+key:  eyr value:  2022 res:  ['2022']
+key:  pid value:  630105579 res:  ['630105579']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  byr value:  1935 res:  ['1935']
+key:  ecl value:  gry res:  ['gry']
+key:  hgt value:  153cm res:  [('153', '')]
+True
+41 count: 20
+
+length:  8
+key:  ecl value:  gry res:  ['gry']
+key:  hcl value:  #fffffd res:  ['fffffd']
+key:  hgt value:  172cm res:  [('172', '')]
+key:  byr value:  1944 res:  ['1944']
+key:  eyr value:  2021 res:  ['2021']
+key:  iyr value:  2013 res:  ['2013']
+key:  cid value:  58 res:  ['58', '']
+key:  pid value:  554670072 res:  ['554670072']
+True
+42 count: 21
+
+length:  7
+key:  byr value:  1983 res:  ['1983']
+key:  eyr value:  2022 res:  ['2022']
+key:  iyr value:  2012 res:  ['2012']
+key:  hgt value:  176cm res:  [('176', '')]
+key:  ecl value:  brn res:  ['brn']
+key:  pid value:  201965494 res:  ['201965494']
+key:  hcl value:  #dd8296 res:  ['dd8296']
+True
+43 count: 22
+
+length:  8
+key:  cid value:  124 res:  ['124', '']
+key:  byr value:  1935 res:  ['1935']
+key:  eyr value:  2020 res:  ['2020']
+key:  ecl value:  blu res:  ['blu']
+key:  hcl value:  #a97842 res:  ['a97842']
+key:  pid value:  666776663 res:  ['666776663']
+key:  iyr value:  2010 res:  ['2010']
+key:  hgt value:  68in res:  [('', '68')]
+True
+44 count: 23
+
+length:  8
+key:  byr value:  1943 res:  ['1943']
+key:  pid value:  139343878 res:  ['139343878']
+key:  hgt value:  181cm res:  [('181', '')]
+key:  hcl value:  #733820 res:  ['733820']
+key:  cid value:  206 res:  ['206', '']
+key:  iyr value:  2018 res:  ['2018']
+key:  ecl value:  brn res:  ['brn']
+key:  eyr value:  2029 res:  ['2029']
+True
+45 count: 24
+
+length:  6
+False
+46 count: 24
+
+length:  7
+False
+47 count: 24
+
+length:  7
+key:  eyr value:  2020 res:  ['2020']
+key:  pid value:  167438086 res:  ['167438086']
+key:  iyr value:  2020 res:  ['2020']
+key:  hcl value:  #fffffd res:  ['fffffd']
+key:  hgt value:  178cm res:  [('178', '')]
+key:  byr value:  1996 res:  ['1996']
+key:  ecl value:  blu res:  ['blu']
+True
+48 count: 25
+
+length:  8
+key:  iyr value:  2015 res:  ['2015']
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  pid value:  905439259 res:  ['905439259']
+key:  byr value:  1962 res:  ['1962']
+key:  cid value:  209 res:  ['209', '']
+key:  ecl value:  brn res:  ['brn']
+key:  hgt value:  150cm res:  [('150', '')]
+key:  eyr value:  2024 res:  ['2024']
+True
+49 count: 26
+
+length:  8
+key:  iyr value:  2016 res:  ['2016']
+key:  ecl value:  amb res:  ['amb']
+key:  pid value:  855119486 res:  ['855119486']
+key:  cid value:  77 res:  ['77', '']
+key:  hgt value:  192cm res:  [('192', '')]
+key:  byr value:  1947 res:  ['1947']
+key:  eyr value:  2021 res:  ['2021']
+key:  hcl value:  #888785 res:  ['888785']
+True
+50 count: 27
+
+length:  8
+key:  hcl value:  #341e13 res:  ['341e13']
+key:  iyr value:  2011 res:  ['2011']
+key:  hgt value:  157cm res:  [('157', '')]
+key:  eyr value:  2030 res:  ['2030']
+key:  pid value:  103806645 res:  ['103806645']
+key:  cid value:  90 res:  ['90', '']
+key:  ecl value:  grn res:  ['grn']
+key:  byr value:  1976 res:  ['1976']
+True
+51 count: 28
+
+length:  7
+False
+52 count: 28
+
+length:  5
+False
+53 count: 28
+
+length:  8
+key:  hcl value:  #18171d res:  ['18171d']
+key:  cid value:  93 res:  ['93', '']
+key:  eyr value:  2027 res:  ['2027']
+key:  iyr value:  2013 res:  ['2013']
+key:  pid value:  821161144 res:  ['821161144']
+key:  ecl value:  brn res:  ['brn']
+key:  byr value:  2002 res:  ['2002']
+key:  hgt value:  170cm res:  [('170', '')]
+True
+54 count: 29
+
+length:  7
+key:  hgt value:  181cm res:  [('181', '')]
+key:  byr value:  1972 res:  ['1972']
+key:  iyr value:  2018 res:  ['2018']
+key:  hcl value:  #fffffd res:  ['fffffd']
+key:  pid value:  745667222 res:  ['745667222']
+key:  eyr value:  2023 res:  ['2023']
+key:  ecl value:  hzl res:  ['hzl']
+True
+55 count: 30
+
+length:  7
+key:  hcl value:  #602927 res:  ['602927']
+key:  byr value:  1996 res:  ['1996']
+key:  ecl value:  blu res:  ['blu']
+key:  pid value:  503245375 res:  ['503245375']
+key:  hgt value:  166cm res:  [('166', '')]
+key:  eyr value:  2028 res:  ['2028']
+key:  iyr value:  2018 res:  ['2018']
+True
+56 count: 31
+
+length:  6
+False
+57 count: 31
+
+length:  7
+False
+58 count: 31
+
+length:  8
+key:  eyr value:  2023 res:  ['2023']
+key:  iyr value:  2016 res:  ['2016']
+key:  hcl value:  #18171d res:  ['18171d']
+key:  hgt value:  173cm res:  [('173', '')]
+key:  cid value:  182 res:  ['182', '']
+key:  pid value:  979409688 res:  ['979409688']
+key:  ecl value:  brn res:  ['brn']
+key:  byr value:  1972 res:  ['1972']
+True
+59 count: 32
+
+length:  7
+key:  iyr value:  2014 res:  ['2014']
+key:  eyr value:  2027 res:  ['2027']
+key:  byr value:  1977 res:  ['1977']
+key:  ecl value:  brn res:  ['brn']
+key:  hgt value:  171cm res:  [('171', '')]
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  pid value:  124307431 res:  ['124307431']
+True
+60 count: 33
+
+length:  7
+False
+61 count: 33
+
+length:  7
+False
+62 count: 33
+
+length:  7
+key:  hgt value:  179cm res:  [('179', '')]
+key:  iyr value:  2014 res:  ['2014']
+key:  eyr value:  2030 res:  ['2030']
+key:  pid value:  397317466 res:  ['397317466']
+key:  byr value:  1967 res:  ['1967']
+key:  hcl value:  #a97842 res:  ['a97842']
+key:  ecl value:  grn res:  ['grn']
+True
+63 count: 34
+
+length:  8
+key:  pid value:  138485312 res:  ['138485312']
+key:  ecl value:  hzl res:  ['hzl']
+key:  hgt value:  151cm res:  [('151', '')]
+key:  iyr value:  2010 res:  ['2010']
+key:  hcl value:  #866857 res:  ['866857']
+key:  byr value:  1936 res:  ['1936']
+key:  cid value:  345 res:  ['345', '']
+key:  eyr value:  2021 res:  ['2021']
+True
+64 count: 35
+
+length:  7
+key:  ecl value:  oth res:  ['oth']
+key:  pid value:  687490850 res:  ['687490850']
+key:  eyr value:  2028 res:  ['2028']
+key:  hcl value:  #9bd268 res:  ['9bd268']
+key:  hgt value:  157cm res:  [('157', '')]
+key:  iyr value:  2012 res:  ['2012']
+key:  byr value:  1994 res:  ['1994']
+True
+65 count: 36
+
+length:  7
+key:  byr value:  1933 res:  ['1933']
+key:  pid value:  575158994 res:  ['575158994']
+key:  hgt value:  192cm res:  [('192', '')]
+key:  iyr value:  2017 res:  ['2017']
+key:  eyr value:  2022 res:  ['2022']
+key:  hcl value:  #602927 res:  ['602927']
+key:  ecl value:  gry res:  ['gry']
+True
+66 count: 37
+
+length:  7
+key:  iyr value:  2012 res:  ['2012']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  ecl value:  oth res:  ['oth']
+key:  eyr value:  2023 res:  ['2023']
+key:  pid value:  615952261 res:  ['615952261']
+key:  byr value:  1959 res:  ['1959']
+key:  hgt value:  152cm res:  [('152', '')]
+True
+67 count: 38
+
+length:  6
+False
+68 count: 38
+
+length:  8
+key:  hcl value:  #18171d res:  ['18171d']
+key:  iyr value:  2012 res:  ['2012']
+key:  byr value:  1986 res:  ['1986']
+key:  ecl value:  blu res:  ['blu']
+key:  pid value:  836367740 res:  ['836367740']
+key:  hgt value:  191cm res:  [('191', '')]
+key:  eyr value:  2024 res:  ['2024']
+key:  cid value:  200 res:  ['200', '']
+True
+69 count: 39
+
+length:  8
+key:  ecl value:  blu res:  ['blu']
+key:  pid value:  909247319 res:  ['909247319']
+key:  iyr value:  2019 res:  ['2019']
+key:  eyr value:  2026 res:  ['2026']
+key:  byr value:  1958 res:  ['1958']
+key:  hgt value:  170cm res:  [('170', '')]
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  cid value:  256 res:  ['256', '']
+True
+70 count: 40
+
+length:  6
+False
+71 count: 40
+
+length:  8
+key:  byr value:  1921 res:  ['1921']
+key:  pid value:  414637667 res:  ['414637667']
+key:  hcl value:  #8d840f res:  ['8d840f']
+key:  cid value:  291 res:  ['291', '']
+key:  iyr value:  2013 res:  ['2013']
+key:  ecl value:  amb res:  ['amb']
+key:  eyr value:  2029 res:  ['2029']
+key:  hgt value:  172cm res:  [('172', '')]
+True
+72 count: 41
+
+length:  7
+key:  byr value:  1961 res:  ['1961']
+key:  iyr value:  2020 res:  ['2020']
+key:  eyr value:  2025 res:  ['2025']
+key:  pid value:  675731511 res:  ['675731511']
+key:  hgt value:  71in res:  [('', '71')]
+key:  ecl value:  blu res:  ['blu']
+key:  hcl value:  #623a2f res:  ['623a2f']
+True
+73 count: 42
+
+length:  6
+False
+74 count: 42
+
+length:  8
+key:  ecl value:  gry res:  ['gry']
+key:  pid value:  812104470 res:  ['812104470']
+key:  byr value:  1938 res:  ['1938']
+key:  hgt value:  70cm res:  []
+False
+75 count: 42
+
+length:  8
+key:  cid value:  99 res:  ['99', '']
+key:  hgt value:  152cm res:  [('152', '')]
+key:  byr value:  1971 res:  ['1971']
+key:  eyr value:  2020 res:  ['2020']
+key:  hcl value:  #733820 res:  ['733820']
+key:  ecl value:  gry res:  ['gry']
+key:  iyr value:  2012 res:  ['2012']
+key:  pid value:  020521112 res:  ['020521112']
+True
+76 count: 43
+
+length:  7
+key:  pid value:  803066169 res:  ['803066169']
+key:  hgt value:  157cm res:  [('157', '')]
+key:  iyr value:  2014 res:  ['2014']
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  eyr value:  2025 res:  ['2025']
+key:  ecl value:  brn res:  ['brn']
+key:  byr value:  1981 res:  ['1981']
+True
+77 count: 44
+
+length:  7
+False
+78 count: 44
+
+length:  7
+key:  pid value:  179471060 res:  ['179471060']
+key:  byr value:  1966 res:  ['1966']
+key:  ecl value:  amb res:  ['amb']
+key:  hcl value:  #18171d res:  ['18171d']
+key:  eyr value:  2029 res:  ['2029']
+key:  iyr value:  2015 res:  ['2015']
+key:  hgt value:  190cm res:  [('190', '')]
+True
+79 count: 45
+
+length:  7
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  ecl value:  gry res:  ['gry']
+key:  byr value:  1942 res:  ['1942']
+key:  eyr value:  2026 res:  ['2026']
+key:  iyr value:  2011 res:  ['2011']
+key:  hgt value:  158cm res:  [('158', '')]
+key:  pid value:  721512314 res:  ['721512314']
+True
+80 count: 46
+
+length:  6
+False
+81 count: 46
+
+length:  8
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  pid value:  179977662 res:  ['179977662']
+key:  iyr value:  2018 res:  ['2018']
+key:  ecl value:  gry res:  ['gry']
+key:  byr value:  1973 res:  ['1973']
+key:  hgt value:  155cm res:  [('155', '')]
+key:  cid value:  126 res:  ['126', '']
+key:  eyr value:  2030 res:  ['2030']
+True
+82 count: 47
+
+length:  7
+key:  byr value:  2012 res:  []
+False
+83 count: 47
+
+length:  7
+False
+84 count: 47
+
+length:  8
+key:  pid value:  601712917 res:  ['601712917']
+key:  ecl value:  hzl res:  ['hzl']
+key:  eyr value:  2001 res:  []
+False
+85 count: 47
+
+length:  7
+key:  hgt value:  183cm res:  [('183', '')]
+key:  byr value:  1996 res:  ['1996']
+key:  eyr value:  2023 res:  ['2023']
+key:  hcl value:  #866857 res:  ['866857']
+key:  iyr value:  2018 res:  ['2018']
+key:  pid value:  259910953 res:  ['259910953']
+key:  ecl value:  brn res:  ['brn']
+True
+86 count: 48
+
+length:  7
+key:  pid value:  751991211 res:  ['751991211']
+key:  hcl value:  z res:  []
+False
+87 count: 48
+
+length:  7
+False
+88 count: 48
+
+length:  7
+key:  iyr value:  2028 res:  []
+False
+89 count: 48
+
+length:  8
+key:  hgt value:  193cm res:  [('193', '')]
+key:  ecl value:  amb res:  ['amb']
+key:  eyr value:  2023 res:  ['2023']
+key:  iyr value:  2020 res:  ['2020']
+key:  byr value:  1933 res:  ['1933']
+key:  cid value:  50 res:  ['50', '']
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  pid value:  482745318 res:  ['482745318']
+True
+90 count: 49
+
+length:  7
+key:  byr value:  2014 res:  []
+False
+91 count: 49
+
+length:  7
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  eyr value:  2028 res:  ['2028']
+key:  byr value:  1921 res:  ['1921']
+key:  ecl value:  blu res:  ['blu']
+key:  pid value:  866536313 res:  ['866536313']
+key:  hgt value:  185cm res:  [('185', '')]
+key:  iyr value:  2020 res:  ['2020']
+True
+92 count: 50
+
+length:  8
+key:  eyr value:  2027 res:  ['2027']
+key:  pid value:  904225608 res:  ['904225608']
+key:  iyr value:  2010 res:  ['2010']
+key:  cid value:  57 res:  ['57', '']
+key:  hgt value:  161cm res:  [('161', '')]
+key:  hcl value:  #83ee3c res:  ['83ee3c']
+key:  ecl value:  gry res:  ['gry']
+key:  byr value:  2001 res:  ['2001']
+True
+93 count: 51
+
+length:  7
+key:  byr value:  1968 res:  ['1968']
+key:  pid value:  120450875 res:  ['120450875']
+key:  iyr value:  2018 res:  ['2018']
+key:  hgt value:  165cm res:  [('165', '')]
+key:  ecl value:  grn res:  ['grn']
+key:  eyr value:  2022 res:  ['2022']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+True
+94 count: 52
+
+length:  8
+key:  hcl value:  #a97842 res:  ['a97842']
+key:  byr value:  1964 res:  ['1964']
+key:  eyr value:  2027 res:  ['2027']
+key:  ecl value:  oth res:  ['oth']
+key:  hgt value:  186cm res:  [('186', '')]
+key:  iyr value:  2010 res:  ['2010']
+key:  cid value:  226 res:  ['226', '']
+key:  pid value:  632344779 res:  ['632344779']
+True
+95 count: 53
+
+length:  8
+key:  pid value:  135449714 res:  ['135449714']
+key:  cid value:  348 res:  ['348', '']
+key:  iyr value:  2019 res:  ['2019']
+key:  hcl value:  #602927 res:  ['602927']
+key:  ecl value:  oth res:  ['oth']
+key:  eyr value:  2029 res:  ['2029']
+key:  hgt value:  184cm res:  [('184', '')]
+key:  byr value:  1992 res:  ['1992']
+True
+96 count: 54
+
+length:  7
+key:  eyr value:  2027 res:  ['2027']
+key:  byr value:  1929 res:  ['1929']
+key:  hgt value:  181cm res:  [('181', '')]
+key:  hcl value:  #fffffd res:  ['fffffd']
+key:  iyr value:  2019 res:  ['2019']
+key:  pid value:  369478657 res:  ['369478657']
+key:  ecl value:  blu res:  ['blu']
+True
+97 count: 55
+
+length:  7
+key:  hgt value:  177cm res:  [('177', '')]
+key:  eyr value:  2021 res:  ['2021']
+key:  iyr value:  2016 res:  ['2016']
+key:  ecl value:  gry res:  ['gry']
+key:  byr value:  1938 res:  ['1938']
+key:  hcl value:  #602927 res:  ['602927']
+key:  pid value:  034365656 res:  ['034365656']
+True
+98 count: 56
+
+length:  7
+key:  iyr value:  2020 res:  ['2020']
+key:  hcl value:  #866857 res:  ['866857']
+key:  eyr value:  2028 res:  ['2028']
+key:  pid value:  183612456 res:  ['183612456']
+key:  ecl value:  #9e25d3 res:  []
+False
+99 count: 56
+
+length:  8
+key:  pid value:  664990234 res:  ['664990234']
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  cid value:  185 res:  ['185', '']
+key:  iyr value:  2018 res:  ['2018']
+key:  ecl value:  brn res:  ['brn']
+key:  hgt value:  192cm res:  [('192', '')]
+key:  byr value:  1942 res:  ['1942']
+key:  eyr value:  2029 res:  ['2029']
+True
+100 count: 57
+
+length:  8
+key:  eyr value:  2027 res:  ['2027']
+key:  hgt value:  163cm res:  [('163', '')]
+key:  pid value:  760854338 res:  ['760854338']
+key:  cid value:  228 res:  ['228', '']
+key:  byr value:  1958 res:  ['1958']
+key:  iyr value:  2014 res:  ['2014']
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  ecl value:  gry res:  ['gry']
+True
+101 count: 58
+
+length:  7
+key:  iyr value:  2014 res:  ['2014']
+key:  hcl value:  #18171d res:  ['18171d']
+key:  hgt value:  157cm res:  [('157', '')]
+key:  ecl value:  amb res:  ['amb']
+key:  eyr value:  2025 res:  ['2025']
+key:  byr value:  1957 res:  ['1957']
+key:  pid value:  347369874 res:  ['347369874']
+True
+102 count: 59
+
+length:  7
+key:  pid value:  013801431 res:  ['013801431']
+key:  byr value:  1999 res:  ['1999']
+key:  hgt value:  181cm res:  [('181', '')]
+key:  eyr value:  2029 res:  ['2029']
+key:  ecl value:  amb res:  ['amb']
+key:  iyr value:  2010 res:  ['2010']
+key:  hcl value:  #b6652a res:  ['b6652a']
+True
+103 count: 60
+
+length:  7
+False
+104 count: 60
+
+length:  8
+key:  cid value:  315 res:  ['315', '']
+key:  iyr value:  2011 res:  ['2011']
+key:  hgt value:  151cm res:  [('151', '')]
+key:  hcl value:  #ffb5f9 res:  ['ffb5f9']
+key:  pid value:  427813663 res:  ['427813663']
+key:  byr value:  1999 res:  ['1999']
+key:  ecl value:  brn res:  ['brn']
+key:  eyr value:  2025 res:  ['2025']
+True
+105 count: 61
+
+length:  6
+False
+106 count: 61
+
+length:  7
+key:  eyr value:  2026 res:  ['2026']
+key:  byr value:  1996 res:  ['1996']
+key:  iyr value:  2018 res:  ['2018']
+key:  ecl value:  grn res:  ['grn']
+key:  hgt value:  158cm res:  [('158', '')]
+key:  pid value:  026432567 res:  ['026432567']
+key:  hcl value:  #602927 res:  ['602927']
+True
+107 count: 62
+
+length:  7
+key:  iyr value:  2014 res:  ['2014']
+key:  ecl value:  hzl res:  ['hzl']
+key:  byr value:  1964 res:  ['1964']
+key:  eyr value:  2020 res:  ['2020']
+key:  hgt value:  184cm res:  [('184', '')]
+key:  pid value:  031793197 res:  ['031793197']
+key:  hcl value:  #fffffd res:  ['fffffd']
+True
+108 count: 63
+
+length:  8
+key:  ecl value:  oth res:  ['oth']
+key:  hgt value:  165cm res:  [('165', '')]
+key:  byr value:  1982 res:  ['1982']
+key:  pid value:  172329608 res:  ['172329608']
+key:  hcl value:  #733820 res:  ['733820']
+key:  iyr value:  2019 res:  ['2019']
+key:  eyr value:  2020 res:  ['2020']
+key:  cid value:  347 res:  ['347', '']
+True
+109 count: 64
+
+length:  7
+False
+110 count: 64
+
+length:  8
+key:  ecl value:  gry res:  ['gry']
+key:  iyr value:  2011 res:  ['2011']
+key:  hcl value:  #a97842 res:  ['a97842']
+key:  byr value:  1942 res:  ['1942']
+key:  pid value:  789953865 res:  ['789953865']
+key:  cid value:  172 res:  ['172', '']
+key:  hgt value:  180cm res:  [('180', '')]
+key:  eyr value:  2027 res:  ['2027']
+True
+111 count: 65
+
+length:  7
+key:  hgt value:  179cm res:  [('179', '')]
+key:  pid value:  975853536 res:  ['975853536']
+key:  iyr value:  2018 res:  ['2018']
+key:  byr value:  1989 res:  ['1989']
+key:  hcl value:  #602927 res:  ['602927']
+key:  eyr value:  2021 res:  ['2021']
+key:  ecl value:  amb res:  ['amb']
+True
+112 count: 66
+
+length:  8
+key:  byr value:  2011 res:  []
+False
+113 count: 66
+
+length:  7
+False
+114 count: 66
+
+length:  7
+key:  hcl value:  #ceb3a1 res:  ['ceb3a1']
+key:  pid value:  762609805 res:  ['762609805']
+key:  byr value:  1962 res:  ['1962']
+key:  hgt value:  150cm res:  [('150', '')]
+key:  iyr value:  2016 res:  ['2016']
+key:  eyr value:  2024 res:  ['2024']
+key:  ecl value:  oth res:  ['oth']
+True
+115 count: 67
+
+length:  7
+key:  iyr value:  2012 res:  ['2012']
+key:  pid value:  181821528 res:  ['181821528']
+key:  byr value:  1922 res:  ['1922']
+key:  ecl value:  gry res:  ['gry']
+key:  hcl value:  #a97842 res:  ['a97842']
+key:  hgt value:  169cm res:  [('169', '')]
+key:  eyr value:  2028 res:  ['2028']
+True
+116 count: 68
+
+length:  7
+key:  eyr value:  2029 res:  ['2029']
+key:  pid value:  776605704 res:  ['776605704']
+key:  byr value:  1964 res:  ['1964']
+key:  hgt value:  175cm res:  [('175', '')]
+key:  hcl value:  #623a2f res:  ['623a2f']
+key:  ecl value:  grn res:  ['grn']
+key:  iyr value:  2011 res:  ['2011']
+True
+117 count: 69
+
+length:  8
+key:  byr value:  1989 res:  ['1989']
+key:  iyr value:  2019 res:  ['2019']
+key:  ecl value:  gry res:  ['gry']
+key:  pid value:  397990288 res:  ['397990288']
+key:  hcl value:  #602927 res:  ['602927']
+key:  hgt value:  67in res:  [('', '67')]
+key:  eyr value:  2030 res:  ['2030']
+key:  cid value:  259 res:  ['259', '']
+True
+118 count: 70
+
+length:  8
+key:  hcl value:  #866857 res:  ['866857']
+key:  iyr value:  2018 res:  ['2018']
+key:  ecl value:  blu res:  ['blu']
+key:  byr value:  1938 res:  ['1938']
+key:  cid value:  227 res:  ['227', '']
+key:  eyr value:  2028 res:  ['2028']
+key:  hgt value:  171cm res:  [('171', '')]
+key:  pid value:  779192850 res:  ['779192850']
+True
+119 count: 71
+
+length:  8
+key:  byr value:  1974 res:  ['1974']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  eyr value:  2026 res:  ['2026']
+key:  hgt value:  59in res:  [('', '59')]
+key:  cid value:  51 res:  ['51', '']
+key:  iyr value:  2019 res:  ['2019']
+key:  ecl value:  oth res:  ['oth']
+key:  pid value:  091591737 res:  ['091591737']
+True
+120 count: 72
+
+length:  8
+key:  byr value:  1952 res:  ['1952']
+key:  cid value:  301 res:  ['301', '']
+key:  pid value:  804465935 res:  ['804465935']
+key:  hgt value:  152cm res:  [('152', '')]
+key:  eyr value:  2025 res:  ['2025']
+key:  hcl value:  #888785 res:  ['888785']
+key:  iyr value:  2013 res:  ['2013']
+key:  ecl value:  hzl res:  ['hzl']
+True
+121 count: 73
+
+length:  7
+False
+122 count: 73
+
+length:  7
+key:  byr value:  1945 res:  ['1945']
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  hgt value:  163cm res:  [('163', '')]
+key:  ecl value:  brn res:  ['brn']
+key:  eyr value:  2025 res:  ['2025']
+key:  iyr value:  2015 res:  ['2015']
+key:  pid value:  829875350 res:  ['829875350']
+True
+123 count: 74
+
+length:  7
+key:  byr value:  1940 res:  ['1940']
+key:  hgt value:  174cm res:  [('174', '')]
+key:  iyr value:  2014 res:  ['2014']
+key:  pid value:  9989523268 res:  []
+False
+124 count: 74
+
+length:  6
+False
+125 count: 74
+
+length:  7
+key:  pid value:  091142801 res:  ['091142801']
+key:  hcl value:  #c0946f res:  ['c0946f']
+key:  byr value:  1983 res:  ['1983']
+key:  ecl value:  blu res:  ['blu']
+key:  iyr value:  2017 res:  ['2017']
+key:  hgt value:  183cm res:  [('183', '')]
+key:  eyr value:  2027 res:  ['2027']
+True
+126 count: 75
+
+length:  7
+key:  ecl value:  oth res:  ['oth']
+key:  iyr value:  2011 res:  ['2011']
+key:  hgt value:  158cm res:  [('158', '')]
+key:  byr value:  1950 res:  ['1950']
+key:  pid value:  902512428 res:  ['902512428']
+key:  hcl value:  #623a2f res:  ['623a2f']
+key:  eyr value:  2028 res:  ['2028']
+True
+127 count: 76
+
+length:  7
+key:  eyr value:  2020 res:  ['2020']
+key:  iyr value:  2020 res:  ['2020']
+key:  ecl value:  oth res:  ['oth']
+key:  byr value:  1938 res:  ['1938']
+key:  hcl value:  #d5eb7e res:  ['d5eb7e']
+key:  pid value:  829945241 res:  ['829945241']
+key:  hgt value:  171cm res:  [('171', '')]
+True
+128 count: 77
+
+length:  8
+key:  byr value:  1971 res:  ['1971']
+key:  pid value:  998912876 res:  ['998912876']
+key:  eyr value:  2022 res:  ['2022']
+key:  iyr value:  2012 res:  ['2012']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  cid value:  338 res:  ['338', '']
+key:  ecl value:  brn res:  ['brn']
+key:  hgt value:  183cm res:  [('183', '')]
+True
+129 count: 78
+
+length:  7
+key:  ecl value:  amb res:  ['amb']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  pid value:  331124964 res:  ['331124964']
+key:  iyr value:  2013 res:  ['2013']
+key:  byr value:  1945 res:  ['1945']
+key:  hgt value:  189cm res:  [('189', '')]
+key:  eyr value:  2028 res:  ['2028']
+True
+130 count: 79
+
+length:  8
+key:  pid value:  012740434 res:  ['012740434']
+key:  iyr value:  2019 res:  ['2019']
+key:  byr value:  1998 res:  ['1998']
+key:  hgt value:  172cm res:  [('172', '')]
+key:  eyr value:  2028 res:  ['2028']
+key:  cid value:  102 res:  ['102', '']
+key:  hcl value:  #866857 res:  ['866857']
+key:  ecl value:  amb res:  ['amb']
+True
+131 count: 80
+
+length:  7
+key:  hcl value:  #866857 res:  ['866857']
+key:  eyr value:  2027 res:  ['2027']
+key:  hgt value:  181cm res:  [('181', '')]
+key:  byr value:  1954 res:  ['1954']
+key:  ecl value:  blu res:  ['blu']
+key:  iyr value:  2010 res:  ['2010']
+key:  pid value:  211721858 res:  ['211721858']
+True
+132 count: 81
+
+length:  7
+key:  byr value:  1984 res:  ['1984']
+key:  pid value:  876360762 res:  ['876360762']
+key:  hgt value:  72cm res:  []
+False
+133 count: 81
+
+length:  7
+key:  hgt value:  167cm res:  [('167', '')]
+key:  byr value:  1930 res:  ['1930']
+key:  ecl value:  oth res:  ['oth']
+key:  pid value:  740024142 res:  ['740024142']
+key:  eyr value:  2024 res:  ['2024']
+key:  hcl value:  #341e13 res:  ['341e13']
+key:  iyr value:  2018 res:  ['2018']
+True
+134 count: 82
+
+length:  8
+key:  byr value:  1968 res:  ['1968']
+key:  hcl value:  #623a2f res:  ['623a2f']
+key:  ecl value:  brn res:  ['brn']
+key:  cid value:  210 res:  ['210', '']
+key:  hgt value:  155cm res:  [('155', '')]
+key:  iyr value:  2017 res:  ['2017']
+key:  pid value:  216618180 res:  ['216618180']
+key:  eyr value:  2024 res:  ['2024']
+True
+135 count: 83
+
+length:  7
+key:  byr value:  1966 res:  ['1966']
+key:  pid value:  131332466 res:  ['131332466']
+key:  hgt value:  174cm res:  [('174', '')]
+key:  ecl value:  amb res:  ['amb']
+key:  hcl value:  #733820 res:  ['733820']
+key:  iyr value:  2013 res:  ['2013']
+key:  eyr value:  2023 res:  ['2023']
+True
+136 count: 84
+
+length:  6
+False
+137 count: 84
+
+length:  6
+False
+138 count: 84
+
+length:  7
+False
+139 count: 84
+
+length:  7
+key:  iyr value:  2014 res:  ['2014']
+key:  ecl value:  hzl res:  ['hzl']
+key:  hgt value:  154cm res:  [('154', '')]
+key:  byr value:  1962 res:  ['1962']
+key:  pid value:  904474869 res:  ['904474869']
+key:  hcl value:  #6b5442 res:  ['6b5442']
+key:  eyr value:  2023 res:  ['2023']
+True
+140 count: 85
+
+length:  8
+key:  ecl value:  hzl res:  ['hzl']
+key:  iyr value:  2012 res:  ['2012']
+key:  eyr value:  2027 res:  ['2027']
+key:  pid value:  663644982 res:  ['663644982']
+key:  hgt value:  175cm res:  [('175', '')]
+key:  cid value:  56 res:  ['56', '']
+key:  byr value:  1980 res:  ['1980']
+key:  hcl value:  #ceb3a1 res:  ['ceb3a1']
+True
+141 count: 86
+
+length:  7
+key:  eyr value:  2020 res:  ['2020']
+key:  iyr value:  2012 res:  ['2012']
+key:  hgt value:  190cm res:  [('190', '')]
+key:  byr value:  1993 res:  ['1993']
+key:  hcl value:  #a97842 res:  ['a97842']
+key:  ecl value:  amb res:  ['amb']
+key:  pid value:  418635216 res:  ['418635216']
+True
+142 count: 87
+
+length:  7
+key:  pid value:  845398140 res:  ['845398140']
+key:  byr value:  1933 res:  ['1933']
+key:  iyr value:  2016 res:  ['2016']
+key:  ecl value:  oth res:  ['oth']
+key:  eyr value:  2024 res:  ['2024']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  hgt value:  169cm res:  [('169', '')]
+True
+143 count: 88
+
+length:  8
+key:  eyr value:  2040 res:  []
+False
+144 count: 88
+
+length:  7
+key:  hcl value:  #6b5442 res:  ['6b5442']
+key:  eyr value:  2027 res:  ['2027']
+key:  hgt value:  191cm res:  [('191', '')]
+key:  iyr value:  2012 res:  ['2012']
+key:  pid value:  642929864 res:  ['642929864']
+key:  ecl value:  amb res:  ['amb']
+key:  byr value:  1934 res:  ['1934']
+True
+145 count: 89
+
+length:  6
+False
+146 count: 89
+
+length:  7
+key:  eyr value:  2030 res:  ['2030']
+key:  byr value:  1938 res:  ['1938']
+key:  hgt value:  188cm res:  [('188', '')]
+key:  iyr value:  2018 res:  ['2018']
+key:  pid value:  652645847 res:  ['652645847']
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  ecl value:  grn res:  ['grn']
+True
+147 count: 90
+
+length:  7
+key:  pid value:  157056211 res:  ['157056211']
+key:  iyr value:  2010 res:  ['2010']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  ecl value:  gry res:  ['gry']
+key:  eyr value:  2024 res:  ['2024']
+key:  byr value:  1961 res:  ['1961']
+key:  hgt value:  177cm res:  [('177', '')]
+True
+148 count: 91
+
+length:  7
+key:  eyr value:  2020 res:  ['2020']
+key:  hcl value:  #60945e res:  ['60945e']
+key:  ecl value:  brn res:  ['brn']
+key:  iyr value:  2011 res:  ['2011']
+key:  pid value:  688090869 res:  ['688090869']
+key:  hgt value:  171cm res:  [('171', '')]
+key:  byr value:  1941 res:  ['1941']
+True
+149 count: 92
+
+length:  6
+False
+150 count: 92
+
+length:  7
+key:  byr value:  1996 res:  ['1996']
+key:  hcl value:  #733820 res:  ['733820']
+key:  pid value:  142902538 res:  ['142902538']
+key:  eyr value:  2023 res:  ['2023']
+key:  iyr value:  2012 res:  ['2012']
+key:  ecl value:  oth res:  ['oth']
+key:  hgt value:  166cm res:  [('166', '')]
+True
+151 count: 93
+
+length:  7
+False
+152 count: 93
+
+length:  6
+False
+153 count: 93
+
+length:  7
+False
+154 count: 93
+
+length:  8
+key:  iyr value:  2017 res:  ['2017']
+key:  pid value:  388674097 res:  ['388674097']
+key:  byr value:  1950 res:  ['1950']
+key:  ecl value:  grn res:  ['grn']
+key:  cid value:  338 res:  ['338', '']
+key:  hgt value:  159cm res:  [('159', '')]
+key:  hcl value:  #6b5442 res:  ['6b5442']
+key:  eyr value:  2025 res:  ['2025']
+True
+155 count: 94
+
+length:  7
+False
+156 count: 94
+
+length:  7
+key:  pid value:  396358436 res:  ['396358436']
+key:  hcl value:  #ceb3a1 res:  ['ceb3a1']
+key:  byr value:  1976 res:  ['1976']
+key:  eyr value:  2025 res:  ['2025']
+key:  iyr value:  2012 res:  ['2012']
+key:  ecl value:  brn res:  ['brn']
+key:  hgt value:  174cm res:  [('174', '')]
+True
+157 count: 95
+
+length:  8
+key:  pid value:  389292752 res:  ['389292752']
+key:  eyr value:  2027 res:  ['2027']
+key:  cid value:  335 res:  ['335', '']
+key:  hgt value:  65in res:  [('', '65')]
+key:  byr value:  1974 res:  ['1974']
+key:  hcl value:  #6b5442 res:  ['6b5442']
+key:  ecl value:  oth res:  ['oth']
+key:  iyr value:  2019 res:  ['2019']
+True
+158 count: 96
+
+length:  7
+key:  ecl value:  amb res:  ['amb']
+key:  iyr value:  2010 res:  ['2010']
+key:  hcl value:  #602927 res:  ['602927']
+key:  hgt value:  164cm res:  [('164', '')]
+key:  byr value:  1966 res:  ['1966']
+key:  pid value:  749383114 res:  ['749383114']
+key:  eyr value:  2026 res:  ['2026']
+True
+159 count: 97
+
+length:  7
+key:  pid value:  656206688 res:  ['656206688']
+key:  hgt value:  175cm res:  [('175', '')]
+key:  hcl value:  #6b5442 res:  ['6b5442']
+key:  byr value:  1961 res:  ['1961']
+key:  eyr value:  2028 res:  ['2028']
+key:  ecl value:  amb res:  ['amb']
+key:  iyr value:  2010 res:  ['2010']
+True
+160 count: 98
+
+length:  7
+key:  hgt value:  179cm res:  [('179', '')]
+key:  eyr value:  2028 res:  ['2028']
+key:  byr value:  1958 res:  ['1958']
+key:  pid value:  095076581 res:  ['095076581']
+key:  ecl value:  gry res:  ['gry']
+key:  hcl value:  #733820 res:  ['733820']
+key:  iyr value:  2017 res:  ['2017']
+True
+161 count: 99
+
+length:  8
+key:  byr value:  1960 res:  ['1960']
+key:  cid value:  309 res:  ['309', '']
+key:  ecl value:  utc res:  []
+False
+162 count: 99
+
+length:  7
+False
+163 count: 99
+
+length:  8
+key:  pid value:  143359781 res:  ['143359781']
+key:  hcl value:  #a97842 res:  ['a97842']
+key:  byr value:  1996 res:  ['1996']
+key:  hgt value:  184cm res:  [('184', '')]
+key:  eyr value:  2020 res:  ['2020']
+key:  cid value:  319 res:  ['319', '']
+key:  ecl value:  blu res:  ['blu']
+key:  iyr value:  2020 res:  ['2020']
+True
+164 count: 100
+
+length:  7
+key:  eyr value:  2025 res:  ['2025']
+key:  iyr value:  2013 res:  ['2013']
+key:  hgt value:  154cm res:  [('154', '')]
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  ecl value:  oth res:  ['oth']
+key:  byr value:  1979 res:  ['1979']
+key:  pid value:  976151938 res:  ['976151938']
+True
+165 count: 101
+
+length:  5
+False
+166 count: 101
+
+length:  8
+key:  iyr value:  2016 res:  ['2016']
+key:  hgt value:  153cm res:  [('153', '')]
+key:  hcl value:  #6d55cd res:  ['6d55cd']
+key:  eyr value:  2026 res:  ['2026']
+key:  ecl value:  hzl res:  ['hzl']
+key:  byr value:  1943 res:  ['1943']
+key:  pid value:  257485710 res:  ['257485710']
+key:  cid value:  165 res:  ['165', '']
+True
+167 count: 102
+
+length:  7
+key:  hcl value:  #ceb3a1 res:  ['ceb3a1']
+key:  ecl value:  blu res:  ['blu']
+key:  byr value:  1937 res:  ['1937']
+key:  hgt value:  152cm res:  [('152', '')]
+key:  iyr value:  2020 res:  ['2020']
+key:  eyr value:  2026 res:  ['2026']
+key:  pid value:  032844291 res:  ['032844291']
+True
+168 count: 103
+
+length:  7
+key:  hcl value:  #fffffd res:  ['fffffd']
+key:  byr value:  1937 res:  ['1937']
+key:  pid value:  122104515 res:  ['122104515']
+key:  ecl value:  hzl res:  ['hzl']
+key:  iyr value:  2018 res:  ['2018']
+key:  eyr value:  2027 res:  ['2027']
+key:  hgt value:  163cm res:  [('163', '')]
+True
+169 count: 104
+
+length:  6
+False
+170 count: 104
+
+length:  7
+key:  pid value:  897642631 res:  ['897642631']
+key:  iyr value:  2015 res:  ['2015']
+key:  byr value:  1941 res:  ['1941']
+key:  hcl value:  #733820 res:  ['733820']
+key:  ecl value:  brn res:  ['brn']
+key:  eyr value:  2020 res:  ['2020']
+key:  hgt value:  179cm res:  [('179', '')]
+True
+171 count: 105
+
+length:  7
+False
+172 count: 105
+
+length:  7
+key:  hgt value:  152cm res:  [('152', '')]
+key:  ecl value:  gry res:  ['gry']
+key:  hcl value:  #18171d res:  ['18171d']
+key:  eyr value:  2020 res:  ['2020']
+key:  byr value:  1971 res:  ['1971']
+key:  iyr value:  2020 res:  ['2020']
+key:  pid value:  211826434 res:  ['211826434']
+True
+173 count: 106
+
+length:  6
+False
+174 count: 106
+
+length:  8
+key:  cid value:  124 res:  ['124', '']
+key:  ecl value:  utc res:  []
+False
+175 count: 106
+
+length:  7
+key:  hcl value:  #888785 res:  ['888785']
+key:  eyr value:  2022 res:  ['2022']
+key:  pid value:  233642738 res:  ['233642738']
+key:  byr value:  1959 res:  ['1959']
+key:  hgt value:  191cm res:  [('191', '')]
+key:  ecl value:  blu res:  ['blu']
+key:  iyr value:  2010 res:  ['2010']
+True
+176 count: 107
+
+length:  8
+key:  pid value:  #adbcd3 res:  []
+False
+177 count: 107
+
+length:  8
+key:  cid value:  131 res:  ['131', '']
+key:  hgt value:  169cm res:  [('169', '')]
+key:  iyr value:  2020 res:  ['2020']
+key:  byr value:  1994 res:  ['1994']
+key:  eyr value:  2021 res:  ['2021']
+key:  ecl value:  amb res:  ['amb']
+key:  hcl value:  #c0946f res:  ['c0946f']
+key:  pid value:  243158461 res:  ['243158461']
+True
+178 count: 108
+
+length:  7
+key:  hcl value:  #18171d res:  ['18171d']
+key:  byr value:  1980 res:  ['1980']
+key:  ecl value:  oth res:  ['oth']
+key:  hgt value:  153cm res:  [('153', '')]
+key:  eyr value:  2028 res:  ['2028']
+key:  iyr value:  2020 res:  ['2020']
+key:  pid value:  629055498 res:  ['629055498']
+True
+179 count: 109
+
+length:  7
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  hgt value:  152 res:  []
+False
+180 count: 109
+
+length:  8
+key:  eyr value:  2025 res:  ['2025']
+key:  hcl value:  #7d6ede res:  ['7d6ede']
+key:  byr value:  1988 res:  ['1988']
+key:  hgt value:  150cm res:  [('150', '')]
+key:  ecl value:  hzl res:  ['hzl']
+key:  cid value:  267 res:  ['267', '']
+key:  pid value:  794369607 res:  ['794369607']
+key:  iyr value:  2012 res:  ['2012']
+True
+181 count: 110
+
+length:  8
+key:  pid value:  538963835 res:  ['538963835']
+key:  ecl value:  oth res:  ['oth']
+key:  byr value:  1958 res:  ['1958']
+key:  hgt value:  173cm res:  [('173', '')]
+key:  eyr value:  2027 res:  ['2027']
+key:  cid value:  63 res:  ['63', '']
+key:  iyr value:  2018 res:  ['2018']
+key:  hcl value:  #602927 res:  ['602927']
+True
+182 count: 111
+
+length:  7
+False
+183 count: 111
+
+length:  7
+key:  ecl value:  grn res:  ['grn']
+key:  pid value:  411555227 res:  ['411555227']
+key:  byr value:  1974 res:  ['1974']
+key:  eyr value:  2020 res:  ['2020']
+key:  hgt value:  153cm res:  [('153', '')]
+key:  iyr value:  2015 res:  ['2015']
+key:  hcl value:  #a97842 res:  ['a97842']
+True
+184 count: 112
+
+length:  8
+key:  cid value:  111 res:  ['111', '']
+key:  pid value:  473064654 res:  ['473064654']
+key:  byr value:  1948 res:  ['1948']
+key:  ecl value:  brn res:  ['brn']
+key:  iyr value:  2013 res:  ['2013']
+key:  hcl value:  #16fa7a res:  ['16fa7a']
+key:  eyr value:  2024 res:  ['2024']
+key:  hgt value:  184cm res:  [('184', '')]
+True
+185 count: 113
+
+length:  7
+key:  iyr value:  2016 res:  ['2016']
+key:  hgt value:  170cm res:  [('170', '')]
+key:  byr value:  1993 res:  ['1993']
+key:  pid value:  487807940 res:  ['487807940']
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  eyr value:  2024 res:  ['2024']
+key:  ecl value:  gry res:  ['gry']
+True
+186 count: 114
+
+length:  7
+key:  hcl value:  #a97842 res:  ['a97842']
+key:  pid value:  891517350 res:  ['891517350']
+key:  iyr value:  2012 res:  ['2012']
+key:  byr value:  1937 res:  ['1937']
+key:  ecl value:  amb res:  ['amb']
+key:  eyr value:  2030 res:  ['2030']
+key:  hgt value:  171cm res:  [('171', '')]
+True
+187 count: 115
+
+length:  7
+False
+188 count: 115
+
+length:  6
+False
+189 count: 115
+
+length:  5
+False
+190 count: 115
+
+length:  7
+key:  hgt value:  158cm res:  [('158', '')]
+key:  hcl value:  #623a2f res:  ['623a2f']
+key:  byr value:  1950 res:  ['1950']
+key:  eyr value:  2020 res:  ['2020']
+key:  ecl value:  gry res:  ['gry']
+key:  pid value:  708073090 res:  ['708073090']
+key:  iyr value:  2018 res:  ['2018']
+True
+191 count: 116
+
+length:  7
+key:  hgt value:  158cm res:  [('158', '')]
+key:  iyr value:  2017 res:  ['2017']
+key:  eyr value:  2027 res:  ['2027']
+key:  ecl value:  brn res:  ['brn']
+key:  pid value:  840573419 res:  ['840573419']
+key:  hcl value:  #18171d res:  ['18171d']
+key:  byr value:  1968 res:  ['1968']
+True
+192 count: 117
+
+length:  8
+key:  ecl value:  oth res:  ['oth']
+key:  cid value:  81 res:  ['81', '']
+key:  hcl value:  #ceb3a1 res:  ['ceb3a1']
+key:  eyr value:  2021 res:  ['2021']
+key:  iyr value:  2020 res:  ['2020']
+key:  byr value:  1959 res:  ['1959']
+key:  hgt value:  62in res:  [('', '62')]
+key:  pid value:  634019849 res:  ['634019849']
+True
+193 count: 118
+
+length:  7
+key:  hgt value:  180cm res:  [('180', '')]
+key:  pid value:  651174767 res:  ['651174767']
+key:  iyr value:  2013 res:  ['2013']
+key:  byr value:  1948 res:  ['1948']
+key:  eyr value:  2022 res:  ['2022']
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  ecl value:  grn res:  ['grn']
+True
+194 count: 119
+
+length:  7
+False
+195 count: 119
+
+length:  7
+False
+196 count: 119
+
+length:  7
+False
+197 count: 119
+
+length:  8
+key:  pid value:  425216058 res:  ['425216058']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  hgt value:  67in res:  [('', '67')]
+key:  ecl value:  blu res:  ['blu']
+key:  eyr value:  2022 res:  ['2022']
+key:  iyr value:  2016 res:  ['2016']
+key:  byr value:  1936 res:  ['1936']
+key:  cid value:  182 res:  ['182', '']
+True
+198 count: 120
+
+length:  6
+False
+199 count: 120
+
+length:  7
+key:  hcl value:  #733820 res:  ['733820']
+key:  iyr value:  1964 res:  []
+False
+200 count: 120
+
+length:  8
+key:  byr value:  1986 res:  ['1986']
+key:  eyr value:  2023 res:  ['2023']
+key:  ecl value:  hzl res:  ['hzl']
+key:  hcl value:  #c0946f res:  ['c0946f']
+key:  hgt value:  152cm res:  [('152', '')]
+key:  pid value:  750393977 res:  ['750393977']
+key:  cid value:  308 res:  ['308', '']
+key:  iyr value:  2015 res:  ['2015']
+True
+201 count: 121
+
+length:  7
+key:  hgt value:  152cm res:  [('152', '')]
+key:  byr value:  2004 res:  []
+False
+202 count: 121
+
+length:  7
+key:  ecl value:  grn res:  ['grn']
+key:  eyr value:  2023 res:  ['2023']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  byr value:  1940 res:  ['1940']
+key:  iyr value:  2017 res:  ['2017']
+key:  pid value:  312213917 res:  ['312213917']
+key:  hgt value:  166cm res:  [('166', '')]
+True
+203 count: 122
+
+length:  7
+key:  ecl value:  grn res:  ['grn']
+key:  pid value:  293691668 res:  ['293691668']
+key:  byr value:  1949 res:  ['1949']
+key:  hgt value:  60in res:  [('', '60')]
+key:  eyr value:  2021 res:  ['2021']
+key:  hcl value:  #efcc98 res:  ['efcc98']
+key:  iyr value:  2017 res:  ['2017']
+True
+204 count: 123
+
+length:  7
+False
+205 count: 123
+
+length:  8
+key:  eyr value:  2021 res:  ['2021']
+key:  pid value:  146888876 res:  ['146888876']
+key:  byr value:  1962 res:  ['1962']
+key:  iyr value:  2010 res:  ['2010']
+key:  cid value:  63 res:  ['63', '']
+key:  ecl value:  amb res:  ['amb']
+key:  hgt value:  188cm res:  [('188', '')]
+key:  hcl value:  #a97842 res:  ['a97842']
+True
+206 count: 124
+
+length:  6
+False
+207 count: 124
+
+length:  7
+key:  hgt value:  157cm res:  [('157', '')]
+key:  hcl value:  #18171d res:  ['18171d']
+key:  eyr value:  2022 res:  ['2022']
+key:  byr value:  1936 res:  ['1936']
+key:  iyr value:  2014 res:  ['2014']
+key:  pid value:  478341738 res:  ['478341738']
+key:  ecl value:  amb res:  ['amb']
+True
+208 count: 125
+
+length:  7
+key:  ecl value:  brn res:  ['brn']
+key:  eyr value:  2026 res:  ['2026']
+key:  pid value:  553753060 res:  ['553753060']
+key:  hgt value:  186cm res:  [('186', '')]
+key:  iyr value:  2019 res:  ['2019']
+key:  hcl value:  #623a2f res:  ['623a2f']
+key:  byr value:  1991 res:  ['1991']
+True
+209 count: 126
+
+length:  7
+key:  iyr value:  2018 res:  ['2018']
+key:  ecl value:  blu res:  ['blu']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  hgt value:  162cm res:  [('162', '')]
+key:  byr value:  1924 res:  ['1924']
+key:  pid value:  721804049 res:  ['721804049']
+key:  eyr value:  2023 res:  ['2023']
+True
+210 count: 127
+
+length:  7
+key:  byr value:  1970 res:  ['1970']
+key:  hgt value:  181cm res:  [('181', '')]
+key:  eyr value:  2027 res:  ['2027']
+key:  ecl value:  hzl res:  ['hzl']
+key:  pid value:  171cm res:  []
+False
+211 count: 127
+
+length:  7
+False
+212 count: 127
+
+length:  7
+key:  pid value:  160cm res:  []
+False
+213 count: 127
+
+length:  8
+key:  cid value:  164 res:  ['164', '']
+key:  iyr value:  2014 res:  ['2014']
+key:  byr value:  1948 res:  ['1948']
+key:  hgt value:  163cm res:  [('163', '')]
+key:  pid value:  701930596 res:  ['701930596']
+key:  ecl value:  gry res:  ['gry']
+key:  eyr value:  2020 res:  ['2020']
+key:  hcl value:  #733820 res:  ['733820']
+True
+214 count: 128
+
+length:  7
+key:  byr value:  1951 res:  ['1951']
+key:  hcl value:  #fffffd res:  ['fffffd']
+key:  pid value:  456803587 res:  ['456803587']
+key:  hgt value:  157cm res:  [('157', '')]
+key:  ecl value:  blu res:  ['blu']
+key:  iyr value:  2010 res:  ['2010']
+key:  eyr value:  2020 res:  ['2020']
+True
+215 count: 129
+
+length:  5
+False
+216 count: 129
+
+length:  7
+key:  byr value:  1993 res:  ['1993']
+key:  hgt value:  167cm res:  [('167', '')]
+key:  ecl value:  amb res:  ['amb']
+key:  iyr value:  2010 res:  ['2010']
+key:  hcl value:  #3da943 res:  ['3da943']
+key:  pid value:  340209998 res:  ['340209998']
+key:  eyr value:  2021 res:  ['2021']
+True
+217 count: 130
+
+length:  7
+key:  byr value:  1968 res:  ['1968']
+key:  eyr value:  2021 res:  ['2021']
+key:  pid value:  915482982 res:  ['915482982']
+key:  hcl value:  #84a907 res:  ['84a907']
+key:  iyr value:  2020 res:  ['2020']
+key:  hgt value:  176cm res:  [('176', '')]
+key:  ecl value:  grn res:  ['grn']
+True
+218 count: 131
+
+length:  7
+False
+219 count: 131
+
+length:  7
+key:  hcl value:  #ceb3a1 res:  ['ceb3a1']
+key:  hgt value:  177cm res:  [('177', '')]
+key:  byr value:  1966 res:  ['1966']
+key:  pid value:  #9f5b93 res:  []
+False
+220 count: 131
+
+length:  6
+False
+221 count: 131
+
+length:  6
+False
+222 count: 131
+
+length:  8
+key:  iyr value:  2015 res:  ['2015']
+key:  pid value:  317156655 res:  ['317156655']
+key:  cid value:  144 res:  ['144', '']
+key:  hgt value:  151cm res:  [('151', '')]
+key:  hcl value:  #623a2f res:  ['623a2f']
+key:  ecl value:  brn res:  ['brn']
+key:  byr value:  1966 res:  ['1966']
+key:  eyr value:  2021 res:  ['2021']
+True
+223 count: 132
+
+length:  6
+False
+224 count: 132
+
+length:  7
+key:  iyr value:  2009 res:  []
+False
+225 count: 132
+
+length:  5
+False
+226 count: 132
+
+length:  7
+key:  eyr value:  2026 res:  ['2026']
+key:  hcl value:  #c0946f res:  ['c0946f']
+key:  hgt value:  165cm res:  [('165', '')]
+key:  iyr value:  2016 res:  ['2016']
+key:  byr value:  1921 res:  ['1921']
+key:  ecl value:  blu res:  ['blu']
+key:  pid value:  490419824 res:  ['490419824']
+True
+227 count: 133
+
+length:  7
+key:  hgt value:  150cm res:  [('150', '')]
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  ecl value:  brn res:  ['brn']
+key:  byr value:  1937 res:  ['1937']
+key:  iyr value:  2013 res:  ['2013']
+key:  pid value:  824096447 res:  ['824096447']
+key:  eyr value:  2027 res:  ['2027']
+True
+228 count: 134
+
+length:  8
+key:  ecl value:  amb res:  ['amb']
+key:  hcl value:  #733820 res:  ['733820']
+key:  byr value:  1997 res:  ['1997']
+key:  iyr value:  2015 res:  ['2015']
+key:  cid value:  269 res:  ['269', '']
+key:  hgt value:  96 res:  []
+False
+229 count: 134
+
+length:  6
+False
+230 count: 134
+
+length:  7
+False
+231 count: 134
+
+length:  8
+key:  byr value:  1974 res:  ['1974']
+key:  eyr value:  2022 res:  ['2022']
+key:  hcl value:  #afb1a8 res:  ['afb1a8']
+key:  ecl value:  oth res:  ['oth']
+key:  hgt value:  159cm res:  [('159', '')]
+key:  cid value:  252 res:  ['252', '']
+key:  pid value:  619988658 res:  ['619988658']
+key:  iyr value:  2018 res:  ['2018']
+True
+232 count: 135
+
+length:  7
+key:  ecl value:  oth res:  ['oth']
+key:  eyr value:  2029 res:  ['2029']
+key:  hgt value:  175cm res:  [('175', '')]
+key:  pid value:  548668762 res:  ['548668762']
+key:  byr value:  1982 res:  ['1982']
+key:  iyr value:  2020 res:  ['2020']
+key:  hcl value:  #c0946f res:  ['c0946f']
+True
+233 count: 136
+
+length:  7
+key:  ecl value:  gry res:  ['gry']
+key:  hcl value:  #18171d res:  ['18171d']
+key:  hgt value:  166 res:  [('', '66')]
+key:  pid value:  #3f6172 res:  []
+False
+234 count: 136
+
+length:  7
+key:  byr value:  1933 res:  ['1933']
+key:  hcl value:  #c0946f res:  ['c0946f']
+key:  ecl value:  gry res:  ['gry']
+key:  eyr value:  2028 res:  ['2028']
+key:  pid value:  594772420 res:  ['594772420']
+key:  hgt value:  167cm res:  [('167', '')]
+key:  iyr value:  2020 res:  ['2020']
+True
+235 count: 137
+
+length:  7
+False
+236 count: 137
+
+length:  7
+key:  hgt value:  187cm res:  [('187', '')]
+key:  hcl value:  #888785 res:  ['888785']
+key:  pid value:  224041851 res:  ['224041851']
+key:  eyr value:  2029 res:  ['2029']
+key:  ecl value:  blu res:  ['blu']
+key:  iyr value:  2012 res:  ['2012']
+key:  byr value:  1991 res:  ['1991']
+True
+237 count: 138
+
+length:  8
+key:  ecl value:  #9c38d0 res:  []
+False
+238 count: 138
+
+length:  8
+key:  hgt value:  184cm res:  [('184', '')]
+key:  ecl value:  grn res:  ['grn']
+key:  byr value:  1938 res:  ['1938']
+key:  pid value:  996091727 res:  ['996091727']
+key:  cid value:  115 res:  ['115', '']
+key:  hcl value:  #866857 res:  ['866857']
+key:  iyr value:  2020 res:  ['2020']
+key:  eyr value:  2020 res:  ['2020']
+True
+239 count: 139
+
+length:  8
+key:  pid value:  883396674 res:  ['883396674']
+key:  iyr value:  2019 res:  ['2019']
+key:  eyr value:  2023 res:  ['2023']
+key:  ecl value:  blu res:  ['blu']
+key:  byr value:  1979 res:  ['1979']
+key:  hcl value:  #733820 res:  ['733820']
+key:  cid value:  125 res:  ['125', '']
+key:  hgt value:  181cm res:  [('181', '')]
+True
+240 count: 140
+
+length:  8
+key:  hgt value:  190cm res:  [('190', '')]
+key:  cid value:  325 res:  ['325', '']
+key:  hcl value:  #866857 res:  ['866857']
+key:  eyr value:  2027 res:  ['2027']
+key:  ecl value:  gry res:  ['gry']
+key:  iyr value:  2013 res:  ['2013']
+key:  pid value:  317703100 res:  ['317703100']
+key:  byr value:  1968 res:  ['1968']
+True
+241 count: 141
+
+length:  7
+key:  hcl value:  #866857 res:  ['866857']
+key:  ecl value:  gry res:  ['gry']
+key:  pid value:  652638412 res:  ['652638412']
+key:  eyr value:  2025 res:  ['2025']
+key:  iyr value:  2015 res:  ['2015']
+key:  hgt value:  158cm res:  [('158', '')]
+key:  byr value:  1953 res:  ['1953']
+True
+242 count: 142
+
+length:  8
+key:  byr value:  1956 res:  ['1956']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  eyr value:  2025 res:  ['2025']
+key:  pid value:  728272575 res:  ['728272575']
+key:  hgt value:  162cm res:  [('162', '')]
+key:  cid value:  291 res:  ['291', '']
+key:  ecl value:  blu res:  ['blu']
+key:  iyr value:  2020 res:  ['2020']
+True
+243 count: 143
+
+length:  7
+key:  hgt value:  189cm res:  [('189', '')]
+key:  byr value:  1980 res:  ['1980']
+key:  hcl value:  #97fd64 res:  ['97fd64']
+key:  ecl value:  grn res:  ['grn']
+key:  iyr value:  2013 res:  ['2013']
+key:  pid value:  181599378 res:  ['181599378']
+key:  eyr value:  2029 res:  ['2029']
+True
+244 count: 144
+
+length:  8
+key:  iyr value:  2018 res:  ['2018']
+key:  hcl value:  #007101 res:  ['007101']
+key:  ecl value:  brn res:  ['brn']
+key:  byr value:  1947 res:  ['1947']
+key:  cid value:  265 res:  ['265', '']
+key:  hgt value:  159cm res:  [('159', '')]
+key:  pid value:  288707610 res:  ['288707610']
+key:  eyr value:  2024 res:  ['2024']
+True
+245 count: 145
+
+length:  7
+key:  hgt value:  62cm res:  [('', '62')]
+key:  pid value:  2407695078 res:  []
+False
+246 count: 145
+
+length:  7
+False
+247 count: 145
+
+length:  8
+key:  pid value:  125685599 res:  ['125685599']
+key:  byr value:  1995 res:  ['1995']
+key:  ecl value:  blu res:  ['blu']
+key:  cid value:  57 res:  ['57', '']
+key:  hgt value:  172cm res:  [('172', '')]
+key:  iyr value:  2020 res:  ['2020']
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  eyr value:  2024 res:  ['2024']
+True
+248 count: 146
+
+length:  7
+False
+249 count: 146
+
+length:  6
+False
+250 count: 146
+
+length:  6
+False
+251 count: 146
+
+length:  7
+key:  ecl value:  oth res:  ['oth']
+key:  iyr value:  2013 res:  ['2013']
+key:  byr value:  1947 res:  ['1947']
+key:  pid value:  532607157 res:  ['532607157']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  eyr value:  2030 res:  ['2030']
+key:  hgt value:  191cm res:  [('191', '')]
+True
+252 count: 147
+
+length:  8
+key:  pid value:  528940525 res:  ['528940525']
+key:  hcl value:  #18171d res:  ['18171d']
+key:  iyr value:  2014 res:  ['2014']
+key:  eyr value:  2029 res:  ['2029']
+key:  cid value:  181 res:  ['181', '']
+key:  byr value:  1967 res:  ['1967']
+key:  ecl value:  gry res:  ['gry']
+key:  hgt value:  64in res:  [('', '64')]
+True
+253 count: 148
+
+length:  8
+key:  hgt value:  71in res:  [('', '71')]
+key:  iyr value:  2019 res:  ['2019']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  eyr value:  2029 res:  ['2029']
+key:  pid value:  785691813 res:  ['785691813']
+key:  byr value:  1996 res:  ['1996']
+key:  ecl value:  hzl res:  ['hzl']
+key:  cid value:  335 res:  ['335', '']
+True
+254 count: 149
+
+length:  8
+key:  byr value:  2015 res:  []
+False
+255 count: 149
+
+length:  8
+key:  hgt value:  188cm res:  [('188', '')]
+key:  eyr value:  2025 res:  ['2025']
+key:  cid value:  107 res:  ['107', '']
+key:  ecl value:  grn res:  ['grn']
+key:  pid value:  286480470 res:  ['286480470']
+key:  hcl value:  #623a2f res:  ['623a2f']
+key:  byr value:  1967 res:  ['1967']
+key:  iyr value:  2015 res:  ['2015']
+True
+256 count: 150
+
+length:  7
+False
+257 count: 150
+
+length:  6
+False
+258 count: 150
+
+length:  7
+key:  iyr value:  2015 res:  ['2015']
+key:  eyr value:  2027 res:  ['2027']
+key:  hgt value:  173cm res:  [('173', '')]
+key:  byr value:  1983 res:  ['1983']
+key:  pid value:  500176757 res:  ['500176757']
+key:  ecl value:  amb res:  ['amb']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+True
+259 count: 151
+
+length:  8
+key:  cid value:  282 res:  ['282', '']
+key:  pid value:  697942299 res:  ['697942299']
+key:  hgt value:  185cm res:  [('185', '')]
+key:  eyr value:  2026 res:  ['2026']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  iyr value:  2017 res:  ['2017']
+key:  byr value:  2002 res:  ['2002']
+key:  ecl value:  amb res:  ['amb']
+True
+260 count: 152
+
+length:  7
+key:  iyr value:  2014 res:  ['2014']
+key:  hcl value:  #18171d res:  ['18171d']
+key:  pid value:  044482202 res:  ['044482202']
+key:  ecl value:  oth res:  ['oth']
+key:  hgt value:  163cm res:  [('163', '')]
+key:  eyr value:  2021 res:  ['2021']
+key:  byr value:  1982 res:  ['1982']
+True
+261 count: 153
+
+length:  6
+False
+262 count: 153
+
+length:  7
+False
+263 count: 153
+
+length:  8
+key:  eyr value:  2021 res:  ['2021']
+key:  hgt value:  165cm res:  [('165', '')]
+key:  cid value:  207 res:  ['207', '']
+key:  iyr value:  2010 res:  ['2010']
+key:  ecl value:  gry res:  ['gry']
+key:  byr value:  1929 res:  ['1929']
+key:  hcl value:  #733820 res:  ['733820']
+key:  pid value:  442632632 res:  ['442632632']
+True
+264 count: 154
+
+length:  8
+key:  pid value:  69132960 res:  []
+False
+265 count: 154
+
+length:  8
+key:  eyr value:  2027 res:  ['2027']
+key:  pid value:  281765118 res:  ['281765118']
+key:  hcl value:  #ceb3a1 res:  ['ceb3a1']
+key:  hgt value:  193cm res:  [('193', '')]
+key:  byr value:  1955 res:  ['1955']
+key:  ecl value:  gry res:  ['gry']
+key:  cid value:  321 res:  ['321', '']
+key:  iyr value:  2010 res:  ['2010']
+True
+266 count: 155
+
+length:  8
+key:  ecl value:  brn res:  ['brn']
+key:  hgt value:  71in res:  [('', '71')]
+key:  cid value:  189 res:  ['189', '']
+key:  byr value:  1962 res:  ['1962']
+key:  eyr value:  2023 res:  ['2023']
+key:  iyr value:  2018 res:  ['2018']
+key:  pid value:  780797141 res:  ['780797141']
+key:  hcl value:  #866857 res:  ['866857']
+True
+267 count: 156
+
+length:  8
+key:  pid value:  984503466 res:  ['984503466']
+key:  ecl value:  amb res:  ['amb']
+key:  hgt value:  192cm res:  [('192', '')]
+key:  byr value:  1942 res:  ['1942']
+key:  hcl value:  #dcc50d res:  ['dcc50d']
+key:  iyr value:  2020 res:  ['2020']
+key:  eyr value:  2030 res:  ['2030']
+key:  cid value:  250 res:  ['250', '']
+True
+268 count: 157
+
+length:  7
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  eyr value:  2028 res:  ['2028']
+key:  hgt value:  178cm res:  [('178', '')]
+key:  ecl value:  gry res:  ['gry']
+key:  iyr value:  2011 res:  ['2011']
+key:  byr value:  1923 res:  ['1923']
+key:  pid value:  960277768 res:  ['960277768']
+True
+269 count: 158
+
+length:  8
+key:  byr value:  2000 res:  ['2000']
+key:  ecl value:  amb res:  ['amb']
+key:  cid value:  199 res:  ['199', '']
+key:  eyr value:  2027 res:  ['2027']
+key:  iyr value:  2020 res:  ['2020']
+key:  pid value:  785585164 res:  ['785585164']
+key:  hcl value:  #888785 res:  ['888785']
+key:  hgt value:  164cm res:  [('164', '')]
+True
+270 count: 159
+
+length:  7
+key:  iyr value:  2015 res:  ['2015']
+key:  pid value:  619005249 res:  ['619005249']
+key:  ecl value:  brn res:  ['brn']
+key:  byr value:  1955 res:  ['1955']
+key:  eyr value:  2028 res:  ['2028']
+key:  hgt value:  183cm res:  [('183', '')]
+key:  hcl value:  #a97842 res:  ['a97842']
+True
+271 count: 160
+
+length:  8
+key:  ecl value:  grn res:  ['grn']
+key:  byr value:  1970 res:  ['1970']
+key:  cid value:  339 res:  ['339', '']
+key:  iyr value:  2011 res:  ['2011']
+key:  hcl value:  #a97842 res:  ['a97842']
+key:  pid value:  952307953 res:  ['952307953']
+key:  eyr value:  2027 res:  ['2027']
+key:  hgt value:  159cm res:  [('159', '')]
+True
+272 count: 161
+
+length:  7
+key:  hcl value:  ff4451 res:  []
+False
+273 count: 161
+
+length:  6
+False
+274 count: 161
+
+length:  8
+key:  eyr value:  2028 res:  ['2028']
+key:  hcl value:  #733820 res:  ['733820']
+key:  pid value:  767003752 res:  ['767003752']
+key:  byr value:  1935 res:  ['1935']
+key:  hgt value:  167cm res:  [('167', '')]
+key:  iyr value:  2016 res:  ['2016']
+key:  ecl value:  oth res:  ['oth']
+key:  cid value:  215 res:  ['215', '']
+True
+275 count: 162
+
+length:  8
+key:  cid value:  125 res:  ['125', '']
+key:  ecl value:  amb res:  ['amb']
+key:  iyr value:  2019 res:  ['2019']
+key:  hcl value:  #18171d res:  ['18171d']
+key:  eyr value:  2022 res:  ['2022']
+key:  hgt value:  163cm res:  [('163', '')]
+key:  pid value:  239764055 res:  ['239764055']
+key:  byr value:  1954 res:  ['1954']
+True
+276 count: 163
+
+length:  8
+key:  ecl value:  gry res:  ['gry']
+key:  iyr value:  2019 res:  ['2019']
+key:  hcl value:  #cfa07d res:  ['cfa07d']
+key:  byr value:  1929 res:  ['1929']
+key:  pid value:  221011852 res:  ['221011852']
+key:  cid value:  274 res:  ['274', '']
+key:  eyr value:  2026 res:  ['2026']
+key:  hgt value:  158cm res:  [('158', '')]
+True
+277 count: 164
+
+length:  7
+False
+278 count: 164
+
+length:  7
+key:  pid value:  051242790 res:  ['051242790']
+key:  iyr value:  2024 res:  []
+False
+279 count: 164
+
+length:  7
+key:  ecl value:  #0b3ea5 res:  []
+False
+280 count: 164
+
+length:  7
+False
+281 count: 164
+
+length:  7
+key:  ecl value:  hzl res:  ['hzl']
+key:  eyr value:  2021 res:  ['2021']
+key:  hcl value:  #b6652a res:  ['b6652a']
+key:  pid value:  856617617 res:  ['856617617']
+key:  byr value:  1949 res:  ['1949']
+key:  hgt value:  153cm res:  [('153', '')]
+key:  iyr value:  2015 res:  ['2015']
+True
+282 count: 165
+
+length:  7
+key:  hgt value:  164cm res:  [('164', '')]
+key:  ecl value:  gry res:  ['gry']
+key:  eyr value:  2025 res:  ['2025']
+key:  pid value:  147932207 res:  ['147932207']
+key:  iyr value:  2011 res:  ['2011']
+key:  byr value:  1984 res:  ['1984']
+key:  hcl value:  #fffffd res:  ['fffffd']
+True
+283 count: 166
+
+length:  7
+key:  eyr value:  2027 res:  ['2027']
+key:  hcl value:  #7d3b0c res:  ['7d3b0c']
+key:  pid value:  377701492 res:  ['377701492']
+key:  ecl value:  gry res:  ['gry']
+key:  byr value:  1971 res:  ['1971']
+key:  hgt value:  174cm res:  [('174', '')]
+key:  iyr value:  2023 res:  []
+False
+284 count: 166
+
+length:  7
+key:  byr value:  2001 res:  ['2001']
+key:  hcl value:  #4784a2 res:  ['4784a2']
+key:  hgt value:  161cm res:  [('161', '')]
+key:  iyr value:  2014 res:  ['2014']
+key:  eyr value:  2025 res:  ['2025']
+key:  pid value:  955262336 res:  ['955262336']
+key:  ecl value:  amb res:  ['amb']
+True
+285 count: 167
+Total valid passports:  167
