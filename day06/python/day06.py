@@ -48,6 +48,12 @@ def calc_total_yes_part_01(listOfTotalYes):
         sum += num
     return sum
 
+def calc_num_of_yes_part_02(groupList):
+    part02List = list()
+    for item in groupList:
+        print("Work!!!")
+
+
 def part_01(groupList):
     groupList = prepare_list_of_dict_01(groupList)
     listOfTotalYes = calc_num_of_yes_part_01(groupList)
@@ -55,6 +61,10 @@ def part_01(groupList):
     totalYes = calc_total_yes_part_01(listOfTotalYes)
     print("Total yes: ", totalYes)
 
+def part_02(groupList):
+    print ("Work!!!")
+
 groupList = inp()
 # print("Questions with answer 'yes': ", groupList)
 part_01(groupList)
+part_02(groupList)
