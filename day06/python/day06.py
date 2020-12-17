@@ -12,7 +12,7 @@ def inp():
     for line in fhand:
         # print("group: ", group, type(group), len(groupList))
         line = line.rstrip()
-        print("Line: ", line)
+        # print("Line: ", line)
         if line == '':
             groupList.append(group)
             group = []
@@ -21,27 +21,40 @@ def inp():
     groupList.append(group)
     return groupList
 
-def calc_num_of_yes(groupList):
+def prepare_list_of_dict_01(groupList):
+    # creating a list of dictionary of count of question with answer "yes" by group members
     totalList = list()
     for group in groupList:
-        listOfQuestions = list()
-        for question in group:
-            count = listOfQuestions.count(question)
-            if count == 0:
-                listOfQuestions.append(question)
-        length = len(listOfQuestions)
-        totalList.append(length)
+        dictOfQuestions = dict()
+        for person in group:
+            for question in person:
+                count = dictOfQuestions.get(question, 0)
+                count += 1
+                dictOfQuestions[question] = count
+        totalList.append(dictOfQuestions)
     return totalList
 
-def calc_total_yes(listOfTotalYes):
+def calc_num_of_yes_part_01(groupList):
+    part01List = list()
+    for item in groupList:
+        listKeys = list(item.keys())
+        lenght = len(listKeys)
+        part01List.append(lenght)
+    return part01List
+
+def calc_total_yes_part_01(listOfTotalYes):
     sum = 0
     for num in listOfTotalYes:
         sum += num
     return sum
 
+def part_01(groupList):
+    groupList = prepare_list_of_dict_01(groupList)
+    listOfTotalYes = calc_num_of_yes_part_01(groupList)
+    # print("No of questions with Yes answer for all groups: ", listOfTotalYes)
+    totalYes = calc_total_yes_part_01(listOfTotalYes)
+    print("Total yes: ", totalYes)
+
 groupList = inp()
-print("Questions with answer 'yes': ", groupList)
-# listOfTotalYes = calc_num_of_yes(groupList)
-# print("No of questions with Yes answer for all groups: ", listOfTotalYes)
-# totalYes = calc_total_yes(listOfTotalYes)
-# print("Total yes: ", totalYes)
+# print("Questions with answer 'yes': ", groupList)
+part_01(groupList)
