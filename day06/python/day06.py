@@ -8,17 +8,16 @@ def inp():
         print("Didn't entered a valid file, choose sample input file")
         fhand = open(fname)
     groupList = list()
-    group = None
+    group = list()
     for line in fhand:
+        # print("group: ", group, type(group), len(groupList))
         line = line.rstrip()
+        print("Line: ", line)
         if line == '':
             groupList.append(group)
-            group = None
+            group = []
             continue
-        if group is None:
-            group = line
-            continue
-        group = group + line
+        group.append(line)
     groupList.append(group)
     return groupList
 
@@ -41,8 +40,8 @@ def calc_total_yes(listOfTotalYes):
     return sum
 
 groupList = inp()
-# print("Questions with answer 'yes': ", groupList)
-listOfTotalYes = calc_num_of_yes(groupList)
+print("Questions with answer 'yes': ", groupList)
+# listOfTotalYes = calc_num_of_yes(groupList)
 # print("No of questions with Yes answer for all groups: ", listOfTotalYes)
-totalYes = calc_total_yes(listOfTotalYes)
-print("Total yes: ", totalYes)
+# totalYes = calc_total_yes(listOfTotalYes)
+# print("Total yes: ", totalYes)
