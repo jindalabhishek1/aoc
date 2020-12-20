@@ -21,7 +21,7 @@ def inp():
     groupList.append(group)
     return groupList
 
-def prepare_list_of_dict_01(groupList):
+def prepare_list_of_dict(groupList):
     # creating a list of dictionary of count of question with answer "yes" by group members
     totalList = list()
     for group in groupList:
@@ -42,27 +42,41 @@ def calc_num_of_yes_part_01(groupList):
         part01List.append(lenght)
     return part01List
 
-def calc_total_yes_part_01(listOfTotalYes):
+def calc_total_yes(listOfTotalYes):
     sum = 0
     for num in listOfTotalYes:
         sum += num
     return sum
 
 def calc_num_of_yes_part_02(groupList):
+    groupListPart02 = prepare_list_of_dict(groupList)
     part02List = list()
+    lengthList = list()
     for item in groupList:
-        print("Work!!!")
+        lengthList.append(len(item))
+
+    i = 0
+    for item in groupListPart02:
+        valueList = list(item.values())
+        length = lengthList[i]
+        i += 1
+        temp = valueList.count (length)
+        part02List.append(temp)
+    return part02List
 
 
 def part_01(groupList):
-    groupList = prepare_list_of_dict_01(groupList)
+    groupList = prepare_list_of_dict(groupList)
+    # print (groupList)
     listOfTotalYes = calc_num_of_yes_part_01(groupList)
     # print("No of questions with Yes answer for all groups: ", listOfTotalYes)
-    totalYes = calc_total_yes_part_01(listOfTotalYes)
+    totalYes = calc_total_yes(listOfTotalYes)
     print("Total yes: ", totalYes)
 
 def part_02(groupList):
-    print ("Work!!!")
+    listOfTotalCommonYes = calc_num_of_yes_part_02(groupList)
+    CommonYes = calc_total_yes(listOfTotalCommonYes)
+    print ("Common Yes: ", CommonYes)
 
 groupList = inp()
 # print("Questions with answer 'yes': ", groupList)
